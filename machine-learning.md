@@ -1,4 +1,6 @@
-# Why?
+# De 0 a 100 con Machine Learning y BigData
+## Javier López Martínez
+https://docs.google.com/presentation/d/1kteiRVbMHPmhvcnwtYGY-L5U3dna6oshqhFyII8DxPg/edit?usp=drivesdk
 
 ## VisionML
 - Deteción de etiquetas
